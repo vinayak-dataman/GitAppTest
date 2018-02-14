@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.iversa.appi4spire" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.iversa.appi4spiretest" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Appi4 Spire</name>
     <description>Appi4 Spire App for use with Spire Business Management App.</description>
     <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
@@ -94,7 +94,7 @@
     <plugin name="cordova-plugin-http" spec="1.2.0" />
     <plugin name="de.appplant.cordova.plugin.printer" spec="^0.7.3" />
     <plugin name="cordova-plugin-ionic" spec="2.0.4">
-        <variable name="APP_ID" value="e363211c" />
+        <variable name="APP_ID" value="43b35d14" />
         <variable name="CHANNEL_NAME" value="Production" />
         <variable name="UPDATE_METHOD" value="background" />
         <variable name="UPDATE_API" value="https://api.ionicjs.com" />
